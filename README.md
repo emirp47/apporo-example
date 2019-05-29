@@ -26,8 +26,11 @@ sudo nano /etc/hosts
 Add IP-domain mapping:
 ```bash
 127.0.0.1 apporo-example.com
-## Try example
+```
+
+## Declare /etc/hosts
 
 ```shell
-curl http://127.0.0.1:7979/restfront/api/v1/test/validator
+curl http://0.0.0.0:7979/apporo-example/api/v1/test/validator
 ```
+
