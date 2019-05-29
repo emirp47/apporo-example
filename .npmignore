@@ -1,0 +1,7 @@
+/dist
+/examples
+/test
+/log
+.gitignore
+.npmignore
+.npmrc
