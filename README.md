@@ -28,7 +28,7 @@ Add IP-domain mapping:
 127.0.0.1 apporo-example.com
 ```
 
-## Declare /etc/hosts
+## Run
 
 ```shell
 curl http://0.0.0.0:7979/apporo-example/api/v1/test/validator
